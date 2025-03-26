@@ -11,3 +11,5 @@ uvicorn
 fastapi
 realesrgan
 streamlit
+opencv-python-headless
+
