@@ -15,7 +15,6 @@ The Photo Enhancer finds applications across various domains, including professi
 
 As research and development in GAN-based image enhancement techniques continue to advance, the Photo Enhancer stands as a testament to innovation, pushing the boundaries of what is possible in digital photo processing. By leveraging the capabilities of GFPGAN and RealESRGAN, this groundbreaking solution empowers users to unleash their creativity and elevate their visual storytelling to new heights, enriching the digital landscape with stunning and immersive photographic imagery.
 
-![sample_image](samples/output.jpg "Sample Enhancement")
 
 <!-- ARCHITECTURE -->
 ## Architecture
@@ -143,6 +142,6 @@ To run the streamlit app, in a terminal, type:
   ```
 Then, the streamlit app will launch in a new window.
 
-![sample_image](samples/streamlit_app.png "Steamlit App Example")
+
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
